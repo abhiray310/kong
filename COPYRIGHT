@@ -1,16 +1,17 @@
 %%%%%%%%%
 
-Library
+*LIBRARY
 
 Library URL
 License URL
+
 
 License text
 
 
 %%%%%%%%%
 
-ansicolors
+*ANSICOLORS
 
 https://github.com/kikito/ansicolors.lua
 https://github.com/kikito/ansicolors.lua/blob/master/COPYING
@@ -39,7 +40,8 @@ THE SOFTWARE.
 
 %%%%%%%%%
 
-binaryheap
+*BINARYHEAP
+
 
 https://github.com/Tieske/binaryheap.lua
 https://github.com/Tieske/binaryheap.lua/blob/master/LICENSE
@@ -69,7 +71,7 @@ SOFTWARE.
 
 %%%%%%%%%
 
-date
+*DATE
 
 https://github.com/Tieske/date
 https://github.com/Tieske/date/blob/master/LICENSE
@@ -99,7 +101,8 @@ THE SOFTWARE.
 
 %%%%%%%%%
 
-etlua
+ETLUA
+
 
 https://github.com/leafo/etlua
 https://github.com/leafo/etlua#license
@@ -200,7 +203,8 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 %%%%%%%%%
 
-inspect
+INSPECT
+
 
 https://github.com/kikito/inspect.lua
 https://github.com/kikito/inspect.lua/blob/master/MIT-LICENSE.txt
